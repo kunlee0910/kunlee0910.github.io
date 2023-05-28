@@ -9,23 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educational Qualifications
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**University of Oxford**, Oxford, United Kingdom
+  * *DPhil* in Social Policy, Wolfson College, 2020-2024 (expected)
+     Thesis: "Extending Working Lives and its Social Inequalities in Ageing Welfare States"
+     Supervisors: Bernhard Ebbinghaus and Marek Naczyk
+  * Qualification for Teaching, UK Professional Standards Framework, 2022
+     Associate Fellowship, Higher Education Academy (Advance HE)
+  * *MSc* in Comparative Social Policy (*Distinction*), Jesus College, 2018-2019
+**Seoul National University**, Seoul, Republic of Korea
+  * *BA* in Social Welfare, *BA* in Economics (*Summa Cum Laude*), 2012-2018
 
-Work experience
+Current & Past Affiliations
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting PhD Scholar, Humboldt University of Berlin (Host: Anette Fasang), Winter 2022/23
+* Visiting PhD Scholar, University of Mannheim (Host: Bernhard Ebbinghaus), Fall 2022
+* Research & Administrative Officer, Seoul National University, 2019-2020
+   Administrator for International Affairs, Institute of Social Welfare
+* IARU Global Intern, Oxford Institute of Population Ageing, Summer 2019
+* Affiliate Arts & Sciences, University College London, 2016-2017
+   Full-time international exchange programme
   
 Skills
 ======
