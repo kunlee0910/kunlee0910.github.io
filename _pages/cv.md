@@ -13,10 +13,10 @@ Educational Qualifications
 ======
 **University of Oxford**, Oxford, United Kingdom
   * *DPhil* in Social Policy, Wolfson College, 2020-2024 (expected)  
-    Thesis: "Extending Working Lives and its Social Inequalities in Ageing Welfare States"  
-    Supervisors: Bernhard Ebbinghaus and Marek Naczyk  
+    &nbsp;Thesis: "Extending Working Lives and its Social Inequalities in Ageing Welfare States"  
+    &nbsp;Supervisors: Bernhard Ebbinghaus and Marek Naczyk  
   * Qualification for Teaching, UK Professional Standards Framework, 2022  
-    Associate Fellowship, Higher Education Academy (Advance HE)
+    &nbsp;Associate Fellowship, Higher Education Academy (Advance HE)
   * *MSc* in Comparative Social Policy (*Distinction*), Jesus College, 2018-2019
   
 **Seoul National University**, Seoul, Republic of Korea
@@ -27,10 +27,10 @@ Current & Past Affiliations
 * Visiting PhD Scholar, Humboldt University of Berlin (Host: Anette Fasang), Winter 2022/23
 * Visiting PhD Scholar, University of Mannheim (Host: Bernhard Ebbinghaus), Fall 2022
 * Research & Administrative Officer, Seoul National University, 2019-2020  
-   Administrator for International Affairs, Institute of Social Welfare
+  &nbsp;Administrator for International Affairs, Institute of Social Welfare
 * IARU Global Intern, Oxford Institute of Population Ageing, Summer 2019
 * Affiliate Arts & Sciences, University College London, 2016-2017  
-  Full-time international exchange programme
+  &nbsp;Full-time international exchange programme
 
 
 Publications
@@ -50,7 +50,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
