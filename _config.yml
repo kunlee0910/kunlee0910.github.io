@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kun Lee"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Social Policy Researcher"
   location         :
   employer         :
