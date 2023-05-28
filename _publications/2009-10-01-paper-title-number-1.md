@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-10-01
+venue: 'Social Policy & Administration'
+paperurl: 'https://doi.org/10.1111/spol.12829'
+citation: 'Lee, K. (2022). &quot;Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea&quot; <i>Social Policy & Administration</i>. 56(7).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper examins the impact of recent expansions in the Basic Pension scheme on old-age poverty in South Korea.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://doi.org/10.1111/spol.12829)
