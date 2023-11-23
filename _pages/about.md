@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi,
+
+
+### Hi,
 
 I am a PhD candidate in Social Policy at the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), University of Oxford. Previously, I was a visiting scholar at the [University of Mannheim](https://www.sowi.uni-mannheim.de/en/ebbinghaus/team/), [Humboldt University of Berlin](https://www.sowi.hu-berlin.de/en/dynamics), and [Finnish Centre for Pensions](https://www.etk.fi/en/). In Winter 2024, I will also be visiting the [Stone Center for Inequality Dynamics](https://www.inequalitydynamics.umich.edu/), University of Michigan, Ann Arbor.
 
