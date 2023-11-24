@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-<p> This is for data </p>
+## This is data page.
