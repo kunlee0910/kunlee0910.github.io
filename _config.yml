@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Website"
 title_separator          : "-"
 name                     : &name "Kun Lee"
 description              : &description "Hello My name is Kun Lee"
