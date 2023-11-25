@@ -7,4 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## This is data page.
+## This page will be updated soon.
+
+I plan to share the datasets I constructed for my own research as well as the codes for replication.
