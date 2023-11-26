@@ -13,7 +13,7 @@ author_profile: true
 Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829)
 
 Lee, K. (under review). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Revised & Resubmitted*
-- [JESP/ESPAnet Doctoral Researcher Prize 2023](https://espanet.org/2022/09/30/jesp-espanet-doctoral-researcher-prize-3/)
+- [JESP/ESPAnet Doctoral Researcher Prize 2023](https://espanet.org/doctoral-researcher-prize/)
 - [SASE 2023 Early Career Workshop Award](https://sase.org/events/early-career-workshop/)
 
 ### Working in Progress
