@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am interested in teaching courses on social policy, welfare states, and social inequality, as well as on quantitative research methods. As a doctoral scholar, I have taught related courses at the University of Oxford and University of Mannheim. In the next stage, I aim to develop an interdisciplinary course encompassing social policy issues related to demographic aging and labor market changes from an international comparative perspective. 
+I am interested in teaching courses on social policy, welfare states, and social inequality, as well as on quantitative research methods. I have taught related courses at the University of Oxford and University of Mannheim and completed training in advanced teaching and learning based on the UK Professional Standards Framework, accredited by [Higher Education Academy](https://www.advance-he.ac.uk/fellowship). In the next stage, I aim to develop an interdisciplinary course encompassing policy issues related to demographic aging and labor market changes from an international comparative perspective. 
 
 
 ## Social Policy and Welfare States
