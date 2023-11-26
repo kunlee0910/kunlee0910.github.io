@@ -11,16 +11,16 @@ I am interested in teaching courses on social policy, welfare states, and social
 
 
 ## Social Policy and Welfare States
-* Social Policy 224 (BA Philosophy, Politics and Economics, University of Oxford)
-  *Tutor*: led seminars and marked essays
-  Term: Fall 2021, Winter 2022, Spring 2022, Fall 2023
+* Social Policy 224 (BA Philosophy, Politics and Economics, University of Oxford)  
+*Tutor*: led seminars and marked essays  
+Term: Fall 2021, Winter 2022, Spring 2022, Fall 2023
 
-* Reform Dynamics in European Welfare States (BA Sociology, University of Mannheim)
-  *Co-instructor* (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/)): provided short lectures, organized practical sessions, and marked essays
-  Term: Spring 2023
+* Reform Dynamics in European Welfare States (BA Sociology, University of Mannheim)  
+*Co-instructor* (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/)): provided short lectures, organized practical sessions, and marked essays  
+Term: Spring 2023
 
 
 ## Quantitative Research Methods
-* Quantitative Analysis (MSc Evidence-based Social Intervention and Policy Evaluation, University of Oxford)
-  *Teaching Assistant*: led practical sessions
-  Terms: Fall 2023
+* Quantitative Analysis (MSc Evidence-based Social Intervention and Policy Evaluation, University of Oxford)  
+*Teaching Assistant*: led practical sessions  
+Terms: Fall 2023
