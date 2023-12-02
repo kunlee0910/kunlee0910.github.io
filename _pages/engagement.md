@@ -10,6 +10,8 @@ author_profile: true
 ## In English
 ‘Introduction to the South Korean Pension System: History, Current State and Challenges’, ETK Research Seminar, Finnish Centre for Pensions, Helsinki, 4 October 2023 [slides](../files/ETK_Seminar.pdf)
 
+Organizing Committee, Symposium for Early Researchers in Social Policy & Intervention, Nuffield College, Oxford, 27 May 2022 [link](https://www.spi.ox.ac.uk/article/successful-research-symposium-continues-to-develop-our-collaborative-culture)
+
 ## In Korean
 '국민연금에 대한 오해와 진실 (Myths and Truths of the South Korean National Pension)', Oxford Korean Academic Society Monthly Seminar, 1 December 2023 [slides](../files/OKAS_2023.pdf) [poster](../images/OKAS_2023.png)
 
