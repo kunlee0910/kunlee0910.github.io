@@ -22,7 +22,7 @@ Term: Spring 2023
 
 ## Quantitative Research Methods
 * Quantitative Analysis (*MSc* Evidence-based Social Intervention and Policy Evaluation, University of Oxford)  
-*Teaching Assistant*: led practical sessions | Instructor: [Mark Fransham](https://mfransham.github.io/)
+*Teaching Assistant*: led practical sessions | Instructor: [Mark Fransham](https://mfransham.github.io/)  
 Terms: Fall 2023
 
 * Analyzing Panel Data in Comparative Research [slides](../files/RGSPP_2022.pdf)
