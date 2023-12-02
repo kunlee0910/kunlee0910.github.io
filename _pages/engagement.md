@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## In English
-‘Introduction to the South Korean Pension System: History, Current State and Challenges’, ETK Research Seminar, Finnish Centre for Pensions, Helsinki, 4 October 2023 [link](../files/ETK_Seminar.pdf)
+‘Introduction to the South Korean Pension System: History, Current State and Challenges’, ETK Research Seminar, Finnish Centre for Pensions, Helsinki, 4 October 2023 [slides](../files/ETK_Seminar.pdf)
 
 ## In Korean
 '국민연금에 대한 오해와 진실 (Myths and Truths of the South Korean National Pension)', Oxford Korean Academic Society Monthly Seminar, 1 December 2023 [slides](../files/OKAS_2023.pdf) [poster](../images/OKAS_2023.png)
