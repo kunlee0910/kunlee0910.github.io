@@ -26,5 +26,5 @@ Term: Spring 2023
 Terms: Fall 2023
 
 * Analyzing Panel Data in Comparative Research [slides](../files/RGSPP_2022.pdf)
-- Guest Lecture for Comparative Methods & Process Tracing (*MA* Sociology), University of Mannheim, Germany, 8 & 15 November 2022
-- Political Economy of Social Policy Research Group Meeting, University of Oxford, 24 November 2022
+  - Guest Lecture for Comparative Methods & Process Tracing (*MA* Sociology), University of Mannheim, Germany, 8 & 15 November 2022
+  - Political Economy of Social Policy Research Group Meeting, University of Oxford, 24 November 2022
