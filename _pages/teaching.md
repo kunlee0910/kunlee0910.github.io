@@ -17,7 +17,7 @@ Term: Fall 2021, Winter 2022, Spring 2022, Fall 2023
 
 * Reform Dynamics in European Welfare States (*BA* Sociology, University of Mannheim)  
 *Co-instructor* (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/)): provided short lectures, organized practical sessions, and marked essays  
-Term: Spring 2023
+Term: Spring 2023 [sample slides](../files/ReformDynamics_W1 practical.pdf)
 
 
 ## Quantitative Research Methods
