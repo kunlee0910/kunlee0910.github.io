@@ -33,7 +33,7 @@ Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from wor
 ‘Extending Working lives in Ageing Welfare States – Socially Sustainable?’ (with [Kati Kuitto](https://scholar.google.com/citations?user=RProMSUAAAAJ&hl=en))
 
 
-## 3. Social Policy, Family, and Low Fertility
+## 3. Social Policy, Work-Family Arrangements, and Low Fertility
 
 ### Publications
 Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look into pro-natal policy in South Korea based on a gender and family framework’, *International Journal of Sociology & Social Policy*, 40(7/8), 589-606. [link](https://doi.org/10.1108/IJSSP-12-2019-0260)
