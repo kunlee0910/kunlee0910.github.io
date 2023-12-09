@@ -15,6 +15,8 @@ author_profile: true
 * [Oxford Supertracker](https://supertracker.spi.ox.ac.uk/about/), The Global Directory for COVID Policy Trackers and Surveys  
 The project was initiated by my PhD colleague, [Lukas Lehner](https://lukaslehner.github.io/). I contributed to the database by collecting the data of COVID-19 policy trackers and surveys.
 
+* Co-organizer, The 2nd Oxford-Korea Forum, Wolfson College, Oxford, 12 November 2021 [poster](../images/oxford_korea.jpg)
+
 * 'Is Low Fertility a Serious Challenge? Some Learnings from the International Seminar on Low Fertility', *The Barnett House Blog*, 4 February 2019 [link](https://barnetthouseblog.wixsite.com/tbhb/single-post/2019/02/04/is-low-fertility-a-serious-challenge-some-learnings-from-the-international-seminar-on-low)
 
 * 'Low Fertility in Korea: Situation Analysis and Policy Implications', *The Barnett House Blog*, 9 November 2019 [link](https://barnetthouseblog.wixsite.com/tbhb/single-post/2018/11/09/low-fertility-in-korea-situation-analysis-and-policy-implications)
