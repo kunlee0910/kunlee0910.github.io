@@ -26,7 +26,7 @@ Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pen
 Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from work: shifting towards active ageing’, in Daniel Clegg & Niccolo Durazzi (eds.), *Handbook of Labour Market Policy in Advanced Democracies*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/doi/10.4337/9781800880887.00030)
 
 ### Working in Progress
-‘Old and New Institutions Moderating the Crisis: Educational Inequalities in Older Workers’ Labour Market Outcomes during COVID-19 in Europe’ (single author).
+‘Old and New Welfare States Moderating the Crisis Shock: Older Workers’ Labour Market Outcomes during COVID-19 in Europe’ (single author).
 
 ‘Retirement Trajectories and Social Stratification in Germany after Welfare Reforms’ (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/))
 
