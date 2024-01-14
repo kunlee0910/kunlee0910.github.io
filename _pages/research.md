@@ -10,7 +10,7 @@ author_profile: true
 ## 1. Social and Economic Inequalities in Public Pensions
 
 ### Publications
-Lee, K. (forthcoming). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Journal of European Social Policy*
+Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Journal of European Social Policy* [link](https://doi.org/10.1177/09589287231223391)
 - [JESP/ESPAnet Doctoral Researcher Prize 2023](https://espanet.org/doctoral-researcher-prize/)
 - [SASE 2023 Early Career Workshop Award](https://sase.org/events/early-career-workshop/)
 
