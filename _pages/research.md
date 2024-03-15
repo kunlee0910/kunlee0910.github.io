@@ -17,7 +17,7 @@ Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-ag
 Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829)
 
 ### Working in Progress
-‘Exclusion from a Universal Social Insurance: Cancellations in the South Korean National Pension’ (with [Jongseok Oh](https://sites.google.com/view/jongseokoh) & Seho Son)
+‘A Universal Social Insurance? Late-Stage Opt-outs in the South Korean National Pension’ (with [Jongseok Oh](https://sites.google.com/view/jongseokoh) & Seho Son)
 
 
 ## 2. Inequalities in Late Working Lives
