@@ -25,7 +25,7 @@ Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pen
 ### Publications
 Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from work: shifting towards active ageing’, in Daniel Clegg & Niccolo Durazzi (eds.), *Handbook of Labour Market Policy in Advanced Democracies*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/doi/10.4337/9781800880887.00030)
 
-Kuitto, K. & Lee, K. (in press). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), Social Sustainability in Ageing Welfare States, Cheltenham, UK: Edward Elgar.
+Kuitto, K. & Lee, K. (in press). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), *Social Sustainability in Ageing Welfare States*, Cheltenham, UK: Edward Elgar.
 
 ### Working Papers (available upon request)
 ‘Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe’ (single author, under review).
