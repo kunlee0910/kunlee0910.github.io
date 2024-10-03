@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## In English
+* Core member, Social Policy Association Pensions Policy Group [link](https://social-policy.org.uk/news/spa-policy-groups/)
+
 * ‘Introduction to the South Korean Pension System: History, Current State and Challenges’, *ETK Research Seminar*, Finnish Centre for Pensions, Helsinki, 4 October 2023 [slides](../files/ETK_Seminar.pdf)
 
 * Organizing Committee, Symposium for Early Researchers in Social Policy & Intervention, Nuffield College, Oxford, 27 May 2022 [link](https://www.spi.ox.ac.uk/article/successful-research-symposium-continues-to-develop-our-collaborative-culture)
