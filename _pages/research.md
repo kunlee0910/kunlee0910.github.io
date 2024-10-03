@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+My doctoral thesis can be openly accessed through [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:9b64014a-4796-4150-b772-40f323fb2ce1).
+For transparency and reproducibility of research, I intend to share replication files for all of my studies once they are published. This page is being updated accordingly. 
 
 ## 1. Social and Economic Inequalities in Public Pensions
 
