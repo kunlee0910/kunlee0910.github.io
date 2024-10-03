@@ -6,8 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+The main themes of my projects thus far include (1) socioeconomic consequences of pension reforms, (2) inequalities in late working lives and retirement transitions, and (3) low fertility and work-family reconciliation policies.
 My doctoral thesis can be openly accessed through [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:9b64014a-4796-4150-b772-40f323fb2ce1).
-For transparency and reproducibility of research, I intend to share replication files for all of my studies once they are published. This page is being updated accordingly. 
+For transparency and reproducibility of research, I intend to share replication files for all my studies once they are published. This page is being updated accordingly. 
 
 ## 1. Social and Economic Inequalities in Public Pensions
 
