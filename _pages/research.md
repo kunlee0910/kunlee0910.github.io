@@ -10,11 +10,11 @@ author_profile: true
 ## 1. Social and Economic Inequalities in Public Pensions
 
 ### Publications
-Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Journal of European Social Policy* [link](https://doi.org/10.1177/09589287231223391)
+Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Journal of European Social Policy* [link](https://doi.org/10.1177/09589287231223391) [replication files]()
 - [JESP/ESPAnet Doctoral Researcher Prize 2023](https://espanet.org/)
 - [SASE 2023 Early Career Workshop Award](https://sase.org/events/early-career-workshop/)
 
-Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829)
+Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829) [replication files]()
 
 ### Working Papers (available upon request)
 ‘A Mandatory Pension Scheme? Late-Stage dropouts from the National Pension System in South Korea’ (with [Jongseok Oh](https://sites.google.com/view/jongseokoh) & Seho Son)
