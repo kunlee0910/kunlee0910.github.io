@@ -42,4 +42,4 @@ Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from wor
 Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look into pro-natal policy in South Korea based on a gender and family framework’, *International Journal of Sociology & Social Policy*, 40(7/8), 589-606. [link](https://doi.org/10.1108/IJSSP-12-2019-0260)
 
 ### Working Papers (available upon request)
-‘Contexts matter: The role of family policy in shaping fertility and women's labor force participation across OECD countries’ (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao))
+‘Contexts matter: The role of family policy in shaping fertility and women's labor force participation across OECD countries’ (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
