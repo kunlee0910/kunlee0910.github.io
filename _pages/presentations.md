@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+I enjoy presenting my work at academic seminars and conferences. Please reach out if you are looking for a seminar presenter!
+
 ## Seminars & Invited Talks
 
 * Convergence or continued stratification? Late working lives and retirement trajectories in Germany [slides](../files/LISER_Nov24_KunLee.pdf)
