@@ -16,13 +16,13 @@ author_profile: true
 
 * Organizing Committee, Symposium for Early Researchers in Social Policy & Intervention, Nuffield College, Oxford, 27 May 2022 [link](https://www.spi.ox.ac.uk/article/successful-research-symposium-continues-to-develop-our-collaborative-culture)
 
+* Contributions to the [Oxford Supertracker](https://supertracker.spi.ox.ac.uk/about/), A Global Directory for COVID Policy Trackers and Surveys, led by [Lukas Lehner](https://lukaslehner.github.io/).
+
 * Organizing Committee, The 2nd Oxford-Korea Forum, Wolfson College, Oxford, 12 November 2021 [poster](../images/oxford_korea.jpg)
 
 
 ## Engagement Activities
 * The 2nd KFAS-Salzburg Global Leadership Initiative: Connecting Technologies - Technology, Growth & Inequality, 2024-25 [link](https://www.salzburgglobal.org/multi-year-series/kfas/pageId/11076)
-
-* Contributions to the [Oxford Supertracker](https://supertracker.spi.ox.ac.uk/about/), A Global Directory for COVID Policy Trackers and Surveys, led by [Lukas Lehner](https://lukaslehner.github.io/).
 
 * Treasurer, Oxford Korean Academic Society, University of Oxford, 2020-21
 
