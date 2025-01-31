@@ -24,6 +24,12 @@ author_profile: true
 
 * Contributions to the [Oxford Supertracker](https://supertracker.spi.ox.ac.uk/about/), A Global Directory for COVID Policy Trackers and Surveys, led by [Lukas Lehner](https://lukaslehner.github.io/).
 
+* Treasurer, Oxford Korean Academic Society, University of Oxford, 2020-21
+
+* 'Is Low Fertility a Serious Challenge? Some Learnings from the International Seminar on Low Fertility', *The Barnett House Blog*, 4 February 2019 [link](https://barnetthouseblog.wixsite.com/tbhb/single-post/2019/02/04/is-low-fertility-a-serious-challenge-some-learnings-from-the-international-seminar-on-low)
+
+* 'Low Fertility in Korea: Situation Analysis and Policy Implications', *The Barnett House Blog*, 9 November 2019 [link](https://barnetthouseblog.wixsite.com/tbhb/single-post/2018/11/09/low-fertility-in-korea-situation-analysis-and-policy-implications)
+
 * 'V부 1장: 유럽국가의 변화 (Part 5 - Section 1. Changes in European Countries)', *코로나19 시민참여 거버넌스 모델과 보건‧복지정책 수립을 위한 국제비교 연구 (An International Comparative Study on Citizen Participatory Governance Model and Health and Welfare Policies in the COVID-19 Era)*, 보건복지부 보고서 (Policy Report for the Ministry of Health & Welfare, Republic of Korea), 책임저자 한상진 [chapter link](../files/report_joongmin.pdf)
 
 * '국민연금에 대한 오해와 진실 (Myths and Truths of the South Korean National Pension)', Oxford Korean Academic Society Monthly Public Lecture, 1 December 2023 [slides](../files/OKAS_2023.pdf) [poster](../images/OKAS_2023.png)
@@ -32,10 +38,4 @@ author_profile: true
 
 * '코로나19: 유럽의 위기와 사회정책 (Europe's Policy Responses to the Labour Market Crisis during the Pandemic)', Oxford Korean Academic Society Monthly Public Lecture, 21 October 2021 [slides](../files/OKAS_2021.pdf) [poster](../images/OKAS_poster2021.jpeg)
 
-* Treasurer, Oxford Korean Academic Society, University of Oxford, 2020-21
-
 * 네이버 블로그: 사회문제와 사회정책 (Naver Blog: Social Problems & Social Policy) [link](https://blog.naver.com/shakgun)
-
-* 'Is Low Fertility a Serious Challenge? Some Learnings from the International Seminar on Low Fertility', *The Barnett House Blog*, 4 February 2019 [link](https://barnetthouseblog.wixsite.com/tbhb/single-post/2019/02/04/is-low-fertility-a-serious-challenge-some-learnings-from-the-international-seminar-on-low)
-
-* 'Low Fertility in Korea: Situation Analysis and Policy Implications', *The Barnett House Blog*, 9 November 2019 [link](https://barnetthouseblog.wixsite.com/tbhb/single-post/2018/11/09/low-fertility-in-korea-situation-analysis-and-policy-implications)
