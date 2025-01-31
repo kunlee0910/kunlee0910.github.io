@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Find my CV [here](../files/CV_Kun Lee.pdf) (updated November 2024)
+Find my CV [here](../files/CV_Kun Lee.pdf) (updated January 2025)
