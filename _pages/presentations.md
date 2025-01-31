@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I enjoy presenting my work at academic seminars and conferences. Please reach out if you are looking for a seminar presenter!
+I enjoy presenting my work at multidisciplinary seminars and conferences. Please reach out if you are looking for a seminar presenter!
 
 ## Seminars & Invited Talks
 
