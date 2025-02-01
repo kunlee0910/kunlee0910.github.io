@@ -7,12 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-I enjoy presenting my work at multidisciplinary seminars and conferences. Please reach out if you are looking for a seminar presenter!
+I enjoy presenting my work at various seminars and conferences with interdisciplinary orientations. Please reach out if you are looking for a seminar presenter!
 
 ## Seminars & Invited Talks
 
 * Convergence or continued stratification? Late working lives and retirement trajectories in Germany [slides](../files/LISER_Nov24_KunLee.pdf)  
-  1) *LISER* Internal Seminar, November 2024  
+  1) *LISER Internal Seminar*, November 2024  
   2) *Sequence Analysis Association* Webinar, October 2024  
   3) CID Lab Meeting, *Stone Center for Inequality Dynamics*, University of Michigan, March 2024
 
@@ -53,6 +53,6 @@ I enjoy presenting my work at multidisciplinary seminars and conferences. Please
 
 * Female labour market participation at a crossroads: what explains the different M-curve changes in South Korea and Japan?, *EASP-FISS* Joint Annual Conference, online, July 2021 (oral)
   
-* Understanding Causes of Low Fertility and Policy Arrangements in South Korea: A Look into Gender and Family Framework, *EASP* Annual Conference, Taipei, Taiwan, July 2019 (oral)
+* Understanding Causes of Low Fertility and Policy Arrangements in South Korea: A Look into Gender and Family Framework, *EASP Research Network* Annual Conference, Taipei, Taiwan, July 2019 (oral)
 
 

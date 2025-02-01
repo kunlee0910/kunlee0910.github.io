@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-The main themes of my projects thus far include (1) public pensions and old-age inequality, (2) inequalities in late working lives and retirement transitions, (3) pension wealth inequality, and (4) low fertility and work-family reconciliation policies.
+The main themes of my projects include (1) public pensions and old-age inequality, (2) inequalities in late working lives and retirement transitions, (3) pension wealth inequality, and (4) low fertility and work-family reconciliation policies.
 My doctoral thesis can be openly accessed through [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:9b64014a-4796-4150-b772-40f323fb2ce1).
 For transparency and reproducibility of research, I intend to share replication files for all my studies once they are published. This page is being updated accordingly. 
 
@@ -45,7 +45,7 @@ Convergence or continued stratification? Retirement trajectories and late workin
 Digitalization, workers’ anxiety, and pension savings behavior (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
 
 ### Projects under development
-The Paradox of Redistribution in Wealth Perspective: A Cross-National Analysis of Pension Wealth Inequality (with [Javier Oliveira](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
+The Paradox of Redistribution in Wealth Perspective: Public-Private Mix and Pension Wealth Inequality in 12 Countries (with [Javier Oliveira](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
 
 
 ## 4. Social Policy, Work-Family Arrangements, and Low Fertility
@@ -54,7 +54,7 @@ The Paradox of Redistribution in Wealth Perspective: A Cross-National Analysis o
 Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look into pro-natal policy in South Korea based on a gender and family framework’, *International Journal of Sociology & Social Policy*, 40(7/8), 589-606. [link](https://doi.org/10.1108/IJSSP-12-2019-0260)
 
 ### Working Papers
-Contexts matter: The role of family policy in shaping fertility and women's labor force participation across OECD countries (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
+Context matters: The role of family policy in shaping fertility and women's labor force participation across OECD countries (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
 
 ### Projects under development
 Couples’ allocation of paid and unpaid work and perceived gender equity in South Korea (with Keon Kim)

@@ -17,4 +17,4 @@ As a quantitative social scientist and social policy researcher, my research bro
 
 My research has been recognized by several awards, such as [Horowitz Foundation for Social Policy](https://www.horowitz-foundation.org/copy-of-2022) Dissertation Grant and [JESP/ESPAnet Doctoral Researcher Prize](https://espanet.org/).
 
-You can also find me on [X](https://x.com/KunLeeSoPol) and [Blue Sky](https://bsky.app/profile/kunlee.bsky.social).
+You can also find me on [Blue Sky](https://bsky.app/profile/kunlee.bsky.social).

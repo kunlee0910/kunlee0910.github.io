@@ -20,11 +20,11 @@ author_profile: true
 
 * Organizing Committee, The 2nd Oxford-Korea Forum, Wolfson College, Oxford, 12 November 2021 [poster](../images/oxford_korea.jpg)
 
+* Treasurer, Oxford Korean Academic Society, University of Oxford, 2020-21
+
 
 ## Engagement Activities
 * The 2nd KFAS-Salzburg Global Leadership Initiative: Connecting Technologies - Technology, Growth & Inequality, 2024-25 [link](https://www.salzburgglobal.org/multi-year-series/kfas/pageId/11076)
-
-* Treasurer, Oxford Korean Academic Society, University of Oxford, 2020-21
 
 * 'Is Low Fertility a Serious Challenge? Some Learnings from the International Seminar on Low Fertility', *The Barnett House Blog*, 4 February 2019 [link](https://barnetthouseblog.wixsite.com/tbhb/single-post/2019/02/04/is-low-fertility-a-serious-challenge-some-learnings-from-the-international-seminar-on-low)
 
