@@ -24,7 +24,7 @@ I enjoy presenting my work at various seminars and conferences with interdiscipl
 
 
 ## Conference Presentations
-* The Paradox of Redistribution in Wealth Perspective: A Cross-National Analysis of Pension Wealth Inequality, *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral, scheduled)
+* Pension systems and wealth inequality in old age, *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
 
 * Convergence or continued stratification? Retirement trajectories and late working lives in Germany since the late 20th century  
   1) *ISA-RC28* Spring Meeting, Milan, Italy, March 2025 (oral, scheduled)  

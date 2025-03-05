@@ -36,7 +36,7 @@ Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from wor
 ### Working Papers
 Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe (single author, *Revise & Resubmit*).
 
-Convergence or continued stratification? Retirement trajectories and late working lives in Germany (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/))
+Convergence or continued stratification? Retirement trajectories and late working lives in Germany, 1976-2019 (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/), *Revise & Resubmit*)
 
 
 ## 3. Pensions and Wealth Inequality
@@ -45,7 +45,7 @@ Convergence or continued stratification? Retirement trajectories and late workin
 Digitalization, workers’ anxiety, and pension savings behavior (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
 
 ### Projects under development
-The Paradox of Redistribution in Wealth Perspective: Public-Private Mix and Pension Wealth Inequality in 12 Countries (with [Javier Oliveira](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
+Pension Systems and Wealth Inequality in Old Age: Revisiting the Paradox of Redistribution Thesis (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
 
 
 ## 4. Social Policy, Work-Family Arrangements, and Low Fertility
