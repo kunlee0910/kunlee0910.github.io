@@ -13,11 +13,11 @@ For transparency and reproducibility of research, I intend to share replication 
 ## 1. Public Pensions and Economic Inequality
 
 ### Publications
-Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Journal of European Social Policy* [link](https://doi.org/10.1177/09589287231223391) [replication files]()
+Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Journal of European Social Policy* [link](https://doi.org/10.1177/09589287231223391) [replication files](https://github.com/kunlee0910/jesp2024)
 - [JESP/ESPAnet Doctoral Researcher Prize 2023](https://espanet.org/)
 - [SASE 2023 Early Career Workshop Award](https://sase.org/events/early-career-workshop/)
 
-Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829) [replication files]()
+Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829) [replication files](https://github.com/kunlee0910/jesp2024)
 
 ### Working Papers
 Exclusion from a Mandatory Pension Scheme: Late-Stage dropouts from the National Pension System in South Korea (with [Jongseok Oh](https://sites.google.com/view/jongseokoh) & Seho Son) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996337)
