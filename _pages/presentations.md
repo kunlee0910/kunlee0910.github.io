@@ -24,8 +24,8 @@ I enjoy presenting my work at various seminars and conferences with interdiscipl
 
 
 ## Conference Presentations
-* Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution
-  1) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral, scheduled)
+* Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution  
+  1) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral, scheduled)  
   2) *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
 
 * Convergence or continued stratification? Retirement trajectories and late working lives in Germany since the late 20th century  
