@@ -6,11 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-The main themes of my projects include (1) public pensions and old-age inequality, (2) inequalities in late working lives and retirement transitions, (3) pension wealth inequality, and (4) low fertility and work-family reconciliation policies.
+The main themes of my projects include (1) public pensions and economic inequality, (2) inequalities in late working lives and retirement transitions, and (3) low fertility and work-family reconciliation policies.
 My doctoral thesis can be openly accessed through [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:9b64014a-4796-4150-b772-40f323fb2ce1).
 For transparency and reproducibility of research, I intend to share replication files for all my studies once they are published. This page is being updated accordingly. 
 
-## 1. Public Pensions and Old-age Inequality
+## 1. Public Pensions and Economic Inequality
 
 ### Publications
 Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Journal of European Social Policy* [link](https://doi.org/10.1177/09589287231223391) [replication files]()
@@ -20,9 +20,11 @@ Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-ag
 Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829) [replication files]()
 
 ### Working Papers
-A Mandatory Pension Scheme? Late-Stage dropouts from the National Pension System in South Korea (with [Jongseok Oh](https://sites.google.com/view/jongseokoh) & Seho Son) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996337)
+Exclusion from a Mandatory Pension Scheme: Late-Stage dropouts from the National Pension System in South Korea (with [Jongseok Oh](https://sites.google.com/view/jongseokoh) & Seho Son) [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996337)
 
 ### Projects under development
+Pension Systems and Wealth Inequality in Old Age: Revisiting the Paradox of Redistribution Thesis (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
+
 The Political Economy of Pension Reforms in South Korea: Evidence from Survey Experiment (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
 
 
@@ -38,17 +40,10 @@ Old and new welfare states retaining older workers in the face of crisis: The ca
 
 Convergence or continued stratification? Retirement trajectories and late working lives in Germany, 1976-2019 (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/), *Revise & Resubmit*)
 
-
-## 3. Pensions and Wealth Inequality
-
-### Working Papers
 Digitalization, workers’ anxiety, and pension savings behavior (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
 
-### Projects under development
-Pension Systems and Wealth Inequality in Old Age: Revisiting the Paradox of Redistribution Thesis (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
 
-
-## 4. Social Policy, Work-Family Arrangements, and Low Fertility
+## 3. Social Policy, Work-Family Arrangements, and Low Fertility
 
 ### Publications
 Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look into pro-natal policy in South Korea based on a gender and family framework’, *International Journal of Sociology & Social Policy*, 40(7/8), 589-606. [link](https://doi.org/10.1108/IJSSP-12-2019-0260)

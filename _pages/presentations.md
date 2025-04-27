@@ -24,15 +24,17 @@ I enjoy presenting my work at various seminars and conferences with interdiscipl
 
 
 ## Conference Presentations
-* Pension systems and wealth inequality in old age, *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
+* Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution
+  1) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral, scheduled)
+  2) *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
 
 * Convergence or continued stratification? Retirement trajectories and late working lives in Germany since the late 20th century  
-  1) *ISA-RC28* Spring Meeting, Milan, Italy, March 2025 (oral, scheduled)  
+  1) *ISA-RC28* Spring Meeting, Milan, Italy, March 2025 (oral)  
   2) Annual *ESPAnet* Conference, Tampere, Finland, August 2024 (oral)  
   3) *PAA* Annual Meeting, Columbus, OH, USA, April 17-20 (poster)  
   
 * Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe (previously titled, ‘Privilege or Burden? Socio-Demographic Differences in Older People’s Work and Retirement in Europe during COVID-19’)  
-  1) *PAA* Annual Meeting, Washington, DC, USA, April 2025 (oral, scheduled)  
+  1) *PAA* Annual Meeting, Washington, DC, USA, April 2025 (oral)  
   2) Annual *ESPAnet* Conference, Warsaw, Poland, September 2023 (oral)  
   3) *ISA-RC28* Summer Meeting, Ann Arbor, MI, USA, August 2023 (poster)  
   4) *Social Policy Association* Annual Conference, Nottingham, UK, July 2023 (oral)  
