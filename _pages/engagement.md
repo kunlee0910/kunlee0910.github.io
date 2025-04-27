@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Academic Services
-* Journal Referee: Social Policy & Administration, Journal of the Economics of Ageing; Ageing & Society, International Journal of Sociology & Social Policy, Poverty & Public Policy
+* Journal Referee: Ageing & Society, Asian Social Work & Policy Review, International Journal of Sociology & Social Policy, Journal of the Economics of Ageing, Poverty & Public Policy, Social Policy & Administration, Socius
 
 * Organizing Committee, 5th (LIS)2ER Workshop: “Fighting poverty: measurement and policy challenges”, 11-13 December 2024 [link](https://www.lisdatacenter.org/news-and-events/events/workshop/2024-lis2er-workshop-fighting-poverty-measurement-and-policy-challenges/)
 
