@@ -10,9 +10,10 @@ author_profile: true
 I enjoy presenting my work at various seminars and conferences with interdisciplinary orientations. Please reach out if you are looking for a seminar presenter!
 
 ## Seminars & Invited Talks
+* Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution, *CSB Lunch Seminar*, Herman Deleeck Centre for Social Policy, University of Antwerp, 15 May 2025
 
 * Convergence or continued stratification? Late working lives and retirement trajectories in Germany [slides](../files/LISER_Nov24_KunLee.pdf)  
-  1) *LISER Internal Seminar*, November 2024  
+  1) *LISER Research Seminar*, November 2024  
   2) *Sequence Analysis Association* Webinar, October 2024  
   3) CID Lab Meeting, *Stone Center for Inequality Dynamics*, University of Michigan, March 2024
 

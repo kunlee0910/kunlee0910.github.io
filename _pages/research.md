@@ -13,7 +13,7 @@ For transparency and reproducibility of research, I intend to share replication 
 ## 1. Public Pensions and Economic Inequality
 
 ### Publications
-Oh, J., Son, S. & Lee, K. (2025). 'Exclusion from a 'Mandatory' Pension Scheme: Late-Stage dropouts from the National Pension System in South Korea', *Journal of the Economics of Ageing* [link](https://doi.org/10.1016/j.jeoa.2025.100578) (corresponding author)
+Oh, J., Son, S. & Lee, K. (2025). 'Exclusion from a 'Mandatory' Pension Scheme: Late-Stage dropouts from the National Pension System in South Korea', *Journal of the Economics of Ageing* 100578 [link](https://doi.org/10.1016/j.jeoa.2025.100578) (corresponding author)
 
 Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-age Employment under Different Pension Regimes', *Journal of European Social Policy*, 34(1), 3–19 [link](https://doi.org/10.1177/09589287231223391) [replication files](https://github.com/kunlee0910/jesp2024)
 - [JESP/ESPAnet Doctoral Researcher Prize 2023](https://espanet.org/)
@@ -51,7 +51,7 @@ Kim, K. & Lee, K. (2025). 'Intra-couple allocation of paid and unpaid work, allo
 Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look into pro-natal policy in South Korea based on a gender and family framework’, *International Journal of Sociology & Social Policy*, 40(7/8), 589-606. [link](https://doi.org/10.1108/IJSSP-12-2019-0260)
 
 ### Working Papers
-Context matters: The role of family policy in shaping fertility and women's labor force participation across OECD countries (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
+Family policy regimes, women's labor force participation, and fertility: A comparative analysis across OECD countries (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
 
 ### Projects under development
 Couples’ allocation of paid and unpaid work and subjective well-being in South Korea (with Keon Kim)
