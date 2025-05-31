@@ -16,5 +16,3 @@ I am *(LIS)2ER* Research Associate jointly at [LIS Cross-national Data Center](h
 As a quantitative social scientist and social policy researcher, my research broadly focuses on how social inequalities are shaped - reduced or reproduced - by welfare state institutions and social policies from a comparative perspective, against the common challenge of demographic transition and changing labor markets. My current and past projects have investigated related topics including the consequences of pension reforms, inequalities in late working lives, low fertility, family policy, poverty, and wealth inequality.
 
 My research has been published in leading social policy journals, including the *Journal of European Social Policy* and *Social Policy & Administration*, and recognized by several awards, such as [Horowitz Foundation for Social Policy](https://www.horowitz-foundation.org/copy-of-2022) Dissertation Grant and [JESP/ESPAnet Doctoral Researcher Prize](https://espanet.org/).
-
-You can also find me on [Blue Sky](https://bsky.app/profile/kunlee.bsky.social).
