@@ -103,13 +103,14 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "kun-lee-26b39413a"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-9593-9317"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@KunLeeSoPol"
+  bluesky          : "https://bsky.app/profile/kunlee.bsky.social"
   vine             :
   weibo            :
   xing             :
@@ -272,10 +273,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
- bluesky:
-          handle:
-          profile_url: "https://bsky.app/profile/kunlee.bsky.social"
 
 
 # Archives
