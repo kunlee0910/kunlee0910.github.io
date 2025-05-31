@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bluesky          : "@kunlee.bsky.social"
 
 
 # Reading Files
@@ -273,6 +272,10 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+ bluesky:
+          handle:
+          profile_url: "https://bsky.app/profile/kunlee.bsky.social"
 
 
 # Archives
