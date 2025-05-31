@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3J5wKd4AAAAJ&hl=ko&oi=sra"
-  email            : "kun.lee@wolfson.ox.ac.uk"
+  email            : "kun.lee@liser.lu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "@kunlee.bsky.social"
 
 
 # Reading Files
