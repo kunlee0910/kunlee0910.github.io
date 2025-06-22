@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Find my CV [here](../files/CV_Kun Lee.pdf) (updated April 2025)  
+Find my CV [here](../files/CV_Kun Lee.pdf) (updated June 2025)  
 
 My CV in Korean version [국문이력서](../files/CV_Korean.pdf)

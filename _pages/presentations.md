@@ -25,9 +25,16 @@ I enjoy presenting my work at various seminars and conferences with interdiscipl
 
 
 ## Conference Presentations
+* Intra-couple allocation of unpaid and paid work and subjective well-being in South Korea, 2004-2014
+  1) *READI Conference*, Seoul, Republic of Korea, July 2025 (oral, scheduled)
+
 * Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution  
-  1) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral, scheduled)  
-  2) *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
+  1) *ISI Wealth Conference*, LMU Munich, Germany, October 2025 (oral, scheduled)  
+  2) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral, scheduled)  
+  3) *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
+  
+* Technological change, workers' anxiety, and pension savings behavior
+  1) *Netspar International Pension Workshop*, Leiden, Netherlands, June 2025 (oral)
 
 * Convergence or continued stratification? Retirement trajectories and late working lives in Germany since the late 20th century  
   1) *ISA-RC28* Spring Meeting, Milan, Italy, March 2025 (oral)  

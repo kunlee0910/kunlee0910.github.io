@@ -36,6 +36,6 @@ Term: Spring 2023 [sample slides](../files/ReformDynamics_W1 practical.pdf)
 *Teaching Assistant*: led practical sessions | Instructor: [Mark Fransham](https://mfransham.github.io/)  
 Terms: Fall 2023
 
-* Analyzing Panel Data in Comparative Research [slides](../files/RGSPP_2022.pdf)
+* Analyzing Panel Data in Comparative Research
   - Guest Lecture for Comparative Methods & Process Tracing (*MA* Sociology), University of Mannheim, Germany, 8 & 15 November 2022
   - Political Economy of Social Policy Research Group Meeting, University of Oxford, 24 November 2022

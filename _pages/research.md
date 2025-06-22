@@ -21,6 +21,9 @@ Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-ag
 
 Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829) [replication files](https://github.com/kunlee0910/spa2022)
 
+### Working Papers
+Technological change, workers’ anxiety, and pension savings behavior (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
+
 ### Projects under development
 Pension Systems and Wealth Inequality in Old Age: Revisiting the Paradox of Redistribution Thesis (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
 
@@ -37,9 +40,7 @@ Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from wor
 ### Working Papers
 Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe (single author, *Revise & Resubmit*).
 
-Convergence or continued stratification? Retirement trajectories and late working lives in Germany, 1976-2019 (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/), *Revise & Resubmit*)
-
-Digitalization, workers’ anxiety, and pension savings behavior (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
+Converging or unequal retirement patterns? Retirement trajectories, late working lives, and pension income in Germany over three decades of cohorts (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/), *Revise & Resubmit*)
 
 
 ## 3. Social Policy, Work-Family Arrangements, and Low Fertility
@@ -51,7 +52,7 @@ Kim, K. & Lee, K. (2025). 'Intra-couple allocation of paid and unpaid work, allo
 Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look into pro-natal policy in South Korea based on a gender and family framework’, *International Journal of Sociology & Social Policy*, 40(7/8), 589-606. [link](https://doi.org/10.1108/IJSSP-12-2019-0260)
 
 ### Working Papers
-Family policy regimes, women's labor force participation, and fertility: A comparative analysis across OECD countries (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
+Context matters: The role of family policy in shaping fertility and women's labour market participation across policy regimes (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
 
 ### Projects under development
 Couples’ allocation of paid and unpaid work and subjective well-being in South Korea (with Keon Kim)
