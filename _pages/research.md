@@ -43,7 +43,7 @@ Converging or unequal retirement patterns? Retirement trajectories, late working
 ## 3. Political Economy of Welfare State Reforms
 
 ### Publications
-Kuitto, K. & Lee, K. (in press). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), *Social Sustainability in Ageing Welfare States*, Cheltenham, UK: Edward Elgar.[link](https://www.elgaronline.com/edcollchap-oa/book/9781035318377/chapter7.xml)
+Kuitto, K. & Lee, K. (in press). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), *Social Sustainability in Ageing Welfare States*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/edcollchap-oa/book/9781035318377/chapter7.xml)
 
 ### Working Papers
 A fragile social contract: The politics of an unpopular welfare reform in South Korea (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
@@ -56,7 +56,7 @@ The Political Economy of Pension Reforms in South Korea: Evidence from a Conjoin
 
 ### Publications
 Kim, K. & Lee, K. (2025). 'Intra-couple allocation of paid and unpaid work, allocation perceptions, and life satisfaction in South Korea: An analysis based on the ‘equitable specialization’ framework', *Korean Journal of Social Welfare*, 77(2), 263-287 [in Korean: 부부간 무급-유급노동 분담 유형과
-가사분담 만족도 및 삶의 만족도 간의 관계: ‘형평성 있는 전문화’ 개념을 중심으로]
+가사분담 만족도 및 삶의 만족도 간의 관계: ‘형평성 있는 전문화’ 개념을 중심으로]  [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003205957)
 
 Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look into pro-natal policy in South Korea based on a gender and family framework’, *International Journal of Sociology & Social Policy*, 40(7/8), 589-606. [link](https://doi.org/10.1108/IJSSP-12-2019-0260)
 
