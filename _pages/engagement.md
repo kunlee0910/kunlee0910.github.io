@@ -10,9 +10,11 @@ author_profile: true
 ## Academic Services
 * Journal Referee: Ageing & Society, Asian Social Work & Policy Review, International Journal of Sociology & Social Policy, Journal of the Economics of Ageing, Poverty & Public Policy, Social Policy & Administration, Socius
 
-* Organizing Committee, 5th (LIS)2ER Workshop: “Fighting poverty: measurement and policy challenges”, 11-13 December 2024 [link](https://www.lisdatacenter.org/news-and-events/events/workshop/2024-lis2er-workshop-fighting-poverty-measurement-and-policy-challenges/)
-
 * Core member, Social Policy Association Pensions Policy Group [link](https://social-policy.org.uk/news/spa-policy-groups/)
+
+* Organizing Committee, 6th (LIS)2ER Workshop: “Pensions and Old-age Wellbeing”, 27-28 November 2025
+
+* Organizing Committee, 5th (LIS)2ER Workshop: “Fighting poverty: measurement and policy challenges”, 11-13 December 2024 [link](https://www.lisdatacenter.org/news-and-events/events/workshop/2024-lis2er-workshop-fighting-poverty-measurement-and-policy-challenges/)
 
 * Organizing Committee, Symposium for Early Researchers in Social Policy & Intervention, Nuffield College, Oxford, 27 May 2022 [link](https://www.spi.ox.ac.uk/article/successful-research-symposium-continues-to-develop-our-collaborative-culture)
 
