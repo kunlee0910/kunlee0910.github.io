@@ -10,6 +10,10 @@ author_profile: true
 I enjoy presenting my work at various seminars and conferences with interdisciplinary orientations. Please reach out if you are looking for a seminar presenter!
 
 ## Seminars & Invited Talks
+* The Luxembourg Income and Wealth Study: Introduction and Applications to Comparative Inequality Research, Special Lecture, *Annual Symposium of the Korean Inequality Research Network*, 16 July 2025 
+
+* Technological change, workers’ anxiety, and pension savings behavior, *East Asian Political Economy Workshop*, King’s College London, 26 June 2025
+
 * Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution, *CSB Lunch Seminar*, Herman Deleeck Centre for Social Policy, University of Antwerp, 15 May 2025
 
 * Convergence or continued stratification? Late working lives and retirement trajectories in Germany [slides](../files/LISER_Nov24_KunLee.pdf)  
@@ -25,12 +29,12 @@ I enjoy presenting my work at various seminars and conferences with interdiscipl
 
 
 ## Conference Presentations
-* Intra-couple allocation of unpaid and paid work and subjective well-being in South Korea, 2004-2014
-  1) *READI Conference*, Seoul, Republic of Korea, July 2025 (oral, scheduled)
+* Intra-couple allocation of unpaid and paid work and subjective well-being in South Korea, 2004-2024
+  1) *READI Conference*, Seoul, Republic of Korea, July 2025 (oral)
 
 * Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution  
-  1) *ISI Wealth Conference*, LMU Munich, Germany, October 2025 (oral, scheduled)  
-  2) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral, scheduled)  
+  1) *ISI Wealth Conference*, LMU Munich, Germany, October 2025 (oral)  
+  2) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral)  
   3) *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
   
 * Technological change, workers' anxiety, and pension savings behavior
