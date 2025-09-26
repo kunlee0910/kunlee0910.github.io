@@ -32,6 +32,8 @@ Term: Spring 2023 [sample slides](../files/ReformDynamics_W1 practical.pdf)
 
 
 ## Quantitative Research Methods
+* (Macro-) Panel data analysis using LIS data (Instructor for *LIS Summer Workshop 2025*) [slides](../files/LIS_teaching.pdf)
+
 * Quantitative Analysis (*MSc* Evidence-based Social Intervention and Policy Evaluation, University of Oxford)  
 *Teaching Assistant*: led practical sessions | Instructor: [Mark Fransham](https://mfransham.github.io/)  
 Terms: Fall 2023
