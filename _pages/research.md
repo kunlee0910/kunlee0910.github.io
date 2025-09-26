@@ -6,11 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-The main themes of my projects include (1) public pensions and economic inequality, (2) inequalities in late working lives and retirement transitions, and (3) low fertility and work-family reconciliation policies.
+The main themes of my projects include (1) pensions and economic inequality, (2) labour market inequalities and policy, (3) the political economy of welfare state reforms, and (4) work-family reconciliation and demographic outcomes.
 My doctoral thesis can be openly accessed through [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:9b64014a-4796-4150-b772-40f323fb2ce1).
-For transparency and reproducibility of research, I intend to share replication files for all my studies as they are published. This page is being updated accordingly. 
+For transparency and reproducibility of research, I intend to share replication files for all my studies as they are published. The website is being updated accordingly. 
 
-## 1. Public Pensions and Economic Inequality
+## 1. Pensions and Economic Inequality
 
 ### Publications
 Oh, J., Son, S. & Lee, K. (2025). 'Exclusion from a 'Mandatory' Pension Scheme: Late-Stage dropouts from the National Pension System in South Korea', *Journal of the Economics of Ageing* 100578 [link](https://doi.org/10.1016/j.jeoa.2025.100578) (corresponding author)
@@ -22,28 +22,37 @@ Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-ag
 Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829) [replication files](https://github.com/kunlee0910/spa2022)
 
 ### Working Papers
-Technological change, workers’ anxiety, and pension savings behavior (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
-
-### Projects under development
 Pension Systems and Wealth Inequality in Old Age: Revisiting the Paradox of Redistribution Thesis (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
 
-The Political Economy of Pension Reforms in South Korea: Evidence from Survey Experiment (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
+### Projects under development
+Intra-couple pension gap in comparative perspective (with [Nicole Kapelle](https://nkapelle.github.io/), [Andreas Weiland](https://ls.sowi.tu-dortmund.de/en/professorship/team/dr-andreas-weiland/), and [Eva Sierminska](http://www.sierminska.eu/))
 
 
-## 2. Inequalities in Late Working Lives
+## 2. Labour Market Inequalities and Policy
 
 ### Publications
-Kuitto, K. & Lee, K. (in press). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), *Social Sustainability in Ageing Welfare States*, Cheltenham, UK: Edward Elgar.
-
 Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from work: shifting towards active ageing’, in Daniel Clegg & Niccolo Durazzi (eds.), *Handbook of Labour Market Policy in Advanced Democracies*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/doi/10.4337/9781800880887.00030)
 
 ### Working Papers
-Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe (single author, *Revise & Resubmit*).
+Technological change, workers’ anxiety, and savings behavior (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
 
-Converging or unequal retirement patterns? Retirement trajectories, late working lives, and pension income in Germany over three decades of cohorts (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/), *Revise & Resubmit*)
+Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe (Revise & Resubmit, *Socio-Economic Review*).
+
+Converging or unequal retirement patterns? Retirement trajectories, late working lives, and pension income in Germany over three decades of cohorts (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/), Revise & Resubmit, *Social Forces*)
+
+## 3. Political Economy of Welfare State Reforms
+
+### Publications
+Kuitto, K. & Lee, K. (in press). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), *Social Sustainability in Ageing Welfare States*, Cheltenham, UK: Edward Elgar.[link](https://www.elgaronline.com/edcollchap-oa/book/9781035318377/chapter7.xml)
+
+### Working Papers
+A fragile social contract: The politics of an unpopular welfare reform in South Korea (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
+
+### Projects under development
+The Political Economy of Pension Reforms in South Korea: Evidence from a Conjoint Experiment (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
 
 
-## 3. Social Policy, Work-Family Arrangements, and Low Fertility
+## 4. Social Policy, Work-Family Reconciliation, and Demographic Outcomes
 
 ### Publications
 Kim, K. & Lee, K. (2025). 'Intra-couple allocation of paid and unpaid work, allocation perceptions, and life satisfaction in South Korea: An analysis based on the ‘equitable specialization’ framework', *Korean Journal of Social Welfare*, 77(2), 263-287 [in Korean: 부부간 무급-유급노동 분담 유형과
@@ -55,4 +64,4 @@ Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look
 Context matters: The role of family policy in shaping fertility and women's labour market participation across policy regimes (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
 
 ### Projects under development
-Couples’ allocation of paid and unpaid work and subjective well-being in South Korea (with Keon Kim)
+Couples’ allocation of paid and unpaid work and subjective well-being in South Korea, 2004-2024 (with Keon Kim)
