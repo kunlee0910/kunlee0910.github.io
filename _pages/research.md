@@ -22,7 +22,7 @@ Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-ag
 Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829) [replication files](https://github.com/kunlee0910/spa2022)
 
 ### Working Papers
-Pension Systems and Wealth Inequality in Old Age: Revisiting the Paradox of Redistribution Thesis (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
+Pension Systems and Wealth Inequality in Old Age: Revisiting the Paradox of Redistribution (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
 
 ### Projects under development
 Intra-couple pension gap in comparative perspective (with [Nicole Kapelle](https://nkapelle.github.io/), [Andreas Weiland](https://ls.sowi.tu-dortmund.de/en/professorship/team/dr-andreas-weiland/), and [Eva Sierminska](http://www.sierminska.eu/))
