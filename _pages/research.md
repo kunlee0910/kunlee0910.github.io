@@ -43,7 +43,7 @@ Converging or unequal retirement patterns? Retirement trajectories, late working
 ## 3. Political Economy of Welfare State Reforms
 
 ### Publications
-Kuitto, K. & Lee, K. (in press). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), *Social Sustainability in Ageing Welfare States*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/edcollchap-oa/book/9781035318377/chapter7.xml)
+Kuitto, K. & Lee, K. (2025). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), *Social Sustainability in Ageing Welfare States*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/edcollchap-oa/book/9781035318377/chapter7.xml)
 
 ### Working Papers
 A fragile social contract: The politics of an unpopular welfare reform in South Korea (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
