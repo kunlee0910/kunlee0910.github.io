@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-The main themes of my projects include (1) pensions and economic inequality, (2) labour market inequalities and policy, (3) the political economy of welfare state reforms, and (4) work-family reconciliation and demographic outcomes.
+The main themes of my projects include (1) pensions and economic inequality, (2) labour market inequalities and social policy, (3) the political economy of welfare state reforms, and (4) work-family reconciliation and demographic outcomes.
 My doctoral thesis can be openly accessed through [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:9b64014a-4796-4150-b772-40f323fb2ce1).
 For transparency and reproducibility of research, I intend to share replication files for all my studies as they are published. The website is being updated accordingly. 
 
@@ -28,7 +28,7 @@ Pension Systems and Wealth Inequality in Old Age: Revisiting the Paradox of Redi
 Intra-couple pension gap in comparative perspective (with [Nicole Kapelle](https://nkapelle.github.io/), [Andreas Weiland](https://ls.sowi.tu-dortmund.de/en/professorship/team/dr-andreas-weiland/), and [Eva Sierminska](http://www.sierminska.eu/))
 
 
-## 2. Labour Market Inequalities and Policy
+## 2. Labour Market Inequalities and Social Policy
 
 ### Publications
 Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from work: shifting towards active ageing’, in Daniel Clegg & Niccolo Durazzi (eds.), *Handbook of Labour Market Policy in Advanced Democracies*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/doi/10.4337/9781800880887.00030)
