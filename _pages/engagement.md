@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Academic Services
-* Journal Referee: Ageing & Society, Asian Social Work & Policy Review, International Journal of Sociology & Social Policy, Journal of the Economics of Ageing, Poverty & Public Policy, Social Policy & Administration, Socius
+* Journal Referee: Ageing & Society, Asian Social Work & Policy Review, International Journal of Social Welfare, International Journal of Sociology & Social Policy, Journal of the Economics of Ageing, Nature Scientific Data, Poverty & Public Policy, Social Policy & Administration, Socius
 
 * Core member, Social Policy Association Pensions Policy Group [link](https://social-policy.org.uk/news/spa-policy-groups/)
 
-* Organizing Committee, 6th (LIS)2ER Workshop: “Pensions and Old-age Wellbeing”, 27-28 November 2025
+* Organizing Committee, 6th (LIS)2ER-SHARE Workshop: “Pensions and Old-age Wellbeing”, 27-28 November 2025 [link](https://www.lisdatacenter.org/news-and-events/events/workshop/2025-lis2er-share-joint-workshop-pensions-and-old-age-well-being-policy-challenges-in-ageing-societies/)
 
 * Organizing Committee, 5th (LIS)2ER Workshop: “Fighting poverty: measurement and policy challenges”, 11-13 December 2024 [link](https://www.lisdatacenter.org/news-and-events/events/workshop/2024-lis2er-workshop-fighting-poverty-measurement-and-policy-challenges/)
 
@@ -26,6 +26,8 @@ author_profile: true
 
 
 ## Engagement Activities
+* SPA Blog Contribution, "Attending the Social Policy Association annual conference: Reports from early career researchers from the Pensions Policy Group" [link](https://social-policy.org.uk/spa-blog/blog-attending-the-social-policy-association-annual-conference-reports-from-early-career-researchers-from-the-pensions-policy-group/)
+
 * The 2nd KFAS-Salzburg Global Leadership Initiative: Connecting Technologies - Technology, Growth & Inequality, 2024-25 [link](https://www.salzburgglobal.org/multi-year-series/kfas/pageId/11076)
 
 * '국민연금에 대한 오해와 진실 (Myths and Truths of the South Korean National Pension)', Oxford Korean Academic Society Monthly Public Lecture, 1 December 2023 [slides](../files/OKAS_2023.pdf) [poster](../images/OKAS_2023.png)
