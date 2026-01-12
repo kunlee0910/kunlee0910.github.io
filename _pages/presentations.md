@@ -16,7 +16,7 @@ I enjoy presenting my work at various seminars and conferences with interdiscipl
 
 * Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution, *CSB Lunch Seminar*, Herman Deleeck Centre for Social Policy, University of Antwerp, 15 May 2025
 
-* Convergence or continued stratification? Late working lives and retirement trajectories in Germany [slides](../files/LISER_Nov24_KunLee.pdf)  
+* Convergence or continued stratification? Late working lives, retirement trajectories, and pension income in Germany over three decades of cohorts [slides](../files/LISER_Nov24_KunLee.pdf)  
   1) *LISER Research Seminar*, November 2024  
   2) *Sequence Analysis Association* Webinar, October 2024  
   3) CID Lab Meeting, *Stone Center for Inequality Dynamics*, University of Michigan, March 2024
@@ -32,13 +32,14 @@ I enjoy presenting my work at various seminars and conferences with interdiscipl
 * Intra-couple allocation of unpaid and paid work and subjective well-being in South Korea, 2004-2024  
   1) *READI Conference*, Seoul, Republic of Korea, July 2025 (oral)
 
-* Pension systems and wealth inequality in old age: Revisiting the Paradox of Redistribution  
-  1) *LIS2ER Workshop: Pensions and Old-age Well-being*, Belval, Luxembourg, November 2025 (oral)  
-  2) *ISI Wealth Conference*, LMU Munich, Germany, October 2025 (oral)  
-  3) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral)  
-  4) *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
+* Welfare states and wealth inequality: Pension systems, the public-private mix, and augmented wealth in old age  
+  1) *PAA Annual Meeting*, St Louis, MO, USA, May 6-9 (oral, scheduled)  
+  2) *LIS2ER Workshop: Pensions and Old-age Well-being*, Belval, Luxembourg, November 2025 (oral)  
+  3) *ISI Wealth Conference*, LMU Munich, Germany, October 2025 (oral)  
+  4) *Social Policy Association* Annual Conference, York, UK, July 2025 (oral)  
+  5) *LIS-III Comparative Economic Inequality* Conference, Luxembourg, February 2025 (oral)
   
-* Technological change, workers' anxiety, and pension savings behavior
+* Technological change, workers' anxiety, and pension savings behavior  
   1) *Netspar International Pension Workshop*, Leiden, Netherlands, June 2025 (oral)
 
 * Convergence or continued stratification? Retirement trajectories and late working lives in Germany since the late 20th century  

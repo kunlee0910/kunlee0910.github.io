@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Academic Services
-* Journal Referee: Ageing & Society, Asian Social Work & Policy Review, International Journal of Social Welfare, International Journal of Sociology & Social Policy, Journal of Governmental Studies, Journal of the Economics of Ageing, Nature Scientific Data, Poverty & Public Policy, Social Policy & Administration, Socius
+* Journal Referee: Ageing & Society, Asian Social Work & Policy Review, International Journal of Social Welfare, International Journal of Sociology & Social Policy, Journal of Aging & Social Policy, Journal of Governmental Studies, Journal of the Economics of Ageing, Nature Scientific Data, Poverty & Public Policy, Social Policy & Administration, Social Science Research, Socius
 
 * Core member, Social Policy Association Pensions Policy Group [link](https://social-policy.org.uk/news/spa-policy-groups/)
 
