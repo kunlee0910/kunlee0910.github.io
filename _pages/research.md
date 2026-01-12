@@ -22,7 +22,7 @@ Lee, K. (2024). 'Varying Effects of Public Pensions: Pension Spending and Old-ag
 Lee, K. (2022). 'Old-age Poverty in a Pension Latecomer: The Impact of Basic Pension Expansions in South Korea', *Social Policy & Administration*, 56(7), 1022-1040. [link](https://doi.org/10.1111/spol.12829) [replication files](https://github.com/kunlee0910/spa2022)
 
 ### Working Papers
-Pension Systems and Wealth Inequality in Old Age: Institutions, Wealth, and the Paradox of Redistribution (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
+Welfare States and Wealth Inequality: Pension Systems, the Public-Private Mix, Augmented Wealth in Old Age (with [Javier Olivera](https://sites.google.com/site/javierolive/) and [Philippe Van Kerm](http://prophil.vankerm.net/))
 
 ### Projects under development
 Intra-couple pension gap in comparative perspective (with [Nicole Kapelle](https://nkapelle.github.io/), [Andreas Weiland](https://ls.sowi.tu-dortmund.de/en/professorship/team/dr-andreas-weiland/), and [Eva Sierminska](http://www.sierminska.eu/))
@@ -31,14 +31,14 @@ Intra-couple pension gap in comparative perspective (with [Nicole Kapelle](https
 ## 2. Labour Market Inequalities and Social Policy
 
 ### Publications
+Lee, K. & Ebbinghaus, B. (2026). 'Converging or unequal retirement patterns? Retirement trajectories, late working lives, and pension income in Germany over three decades of cohorts' *Social Forces*
+
 Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from work: shifting towards active ageing’, in Daniel Clegg & Niccolo Durazzi (eds.), *Handbook of Labour Market Policy in Advanced Democracies*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/doi/10.4337/9781800880887.00030)
 
 ### Working Papers
-Technological change, workers’ anxiety, and savings behavior (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
+Threats of AI: How workers perceive and respond to technological change in the workplace (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
 
 Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe (Revise & Resubmit, *Socio-Economic Review*).
-
-Converging or unequal retirement patterns? Retirement trajectories, late working lives, and pension income in Germany over three decades of cohorts (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/), Revise & Resubmit, *Social Forces*)
 
 ## 3. Political Economy of Welfare State Reforms
 

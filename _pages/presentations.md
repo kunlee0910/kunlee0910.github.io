@@ -29,6 +29,10 @@ I enjoy presenting my work at various seminars and conferences with interdiscipl
 
 
 ## Conference Presentations
+* A fragile social contract: The politics of an unpopular pension reform in South Korea  
+  1) *In_equality Conference*, Konstanz, Germany, April 15-17 (oral, scheduled)  
+  2) *19th Winter School on Inequality and Social Welfare Theory*, Canazei, Italy, January 2026 (oral)  
+
 * Intra-couple allocation of unpaid and paid work and subjective well-being in South Korea, 2004-2024  
   1) *READI Conference*, Seoul, Republic of Korea, July 2025 (oral)
 
