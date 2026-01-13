@@ -31,7 +31,7 @@ Intra-couple pension gap in comparative perspective (with [Nicole Kapelle](https
 ## 2. Labour Market Inequalities and Social Policy
 
 ### Publications
-Lee, K. & Ebbinghaus, B. (2026). 'Converging or unequal retirement patterns? Retirement trajectories, late working lives, and pension income in Germany over three decades of cohorts' *Social Forces*
+Lee, K. & Ebbinghaus, B. (2026). 'Converging or unequal retirement patterns? Retirement trajectories, late working lives, and pension income in Germany over three decades of cohorts' *Social Forces* [link](https://doi.org/10.1093/sf/soaf211)
 
 Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from work: shifting towards active ageing’, in Daniel Clegg & Niccolo Durazzi (eds.), *Handbook of Labour Market Policy in Advanced Democracies*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/doi/10.4337/9781800880887.00030)
 
