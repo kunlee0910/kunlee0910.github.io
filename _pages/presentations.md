@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I enjoy presenting my work at various seminars and conferences with interdisciplinary orientations. Please reach out if you are looking for a seminar presenter!
+I have presented my work at various seminars and conferences with interdisciplinary orientations. Please reach out if you are looking for a seminar presenter!
 
 ## Seminars & Invited Talks
 * The Luxembourg Income and Wealth Study: Introduction and Applications to Comparative Inequality Research, Special Lecture, *Annual Symposium of the Korean Inequality Research Network*, 16 July 2025 

@@ -40,6 +40,9 @@ Threats of AI: How workers perceive and respond to technological change in the w
 
 Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe (Revise & Resubmit, *Socio-Economic Review*).
 
+### Projects under development
+The intergenerational effects of social pensions on women's labour supply: Evidence from five countries (with [Noelia Bernal](https://nbernall.github.io/Website/), [Javier Olivera](https://sites.google.com/site/javierolive/) and [William Fernandez](https://william-fernandez.com/)) 
+
 ## 3. Political Economy of Welfare State Reforms
 
 ### Publications
@@ -47,6 +50,8 @@ Kuitto, K. & Lee, K. (2025). ‘How to make extending working lives in ageing we
 
 ### Working Papers
 A fragile social contract: The politics of an unpopular welfare reform in South Korea (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
+
+Beyond Beveridge and Bismarck: A new typology of pension systems for the 21st century (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/) and [Daria Frost](https://www.sowi.uni-mannheim.de/en/ebbinghaus/team/academic-staff-members/frost-daria/))
 
 ### Projects under development
 The Political Economy of Pension Reforms in South Korea: Evidence from a Conjoint Experiment (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
@@ -65,3 +70,5 @@ Context matters: The role of family policy in shaping fertility and women's labo
 
 ### Projects under development
 Couples’ allocation of paid and unpaid work and subjective well-being in South Korea, 2004-2024 (with Keon Kim)
+
+Wealth-to-income ratio, uncertainty, and fertility outcomes (with [Dohoon Lee](https://sociology.snu.ac.kr/en/snu__professor/dohoonlee/))
