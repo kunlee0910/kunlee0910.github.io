@@ -31,7 +31,7 @@ Intra-couple pension gap in comparative perspective (with [Nicole Kapelle](https
 ## 2. Social Policy in Changing Labour Markets
 
 ### Publications
-Lee, K. (forthcoming). 'Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe', *Socio-Economic Review* [link]() 
+Lee, K. (2026). 'Old and new welfare states retaining older workers in the face of crisis: The case of COVID-19 in Europe', *Socio-Economic Review* [link](https://doi.org/10.1093/ser/mwag024) 
 
 Lee, K. & Ebbinghaus, B. (2026). 'Converging or unequal retirement patterns? Late working lives, retirement trajectories, and pension income in Germany over three decades of cohorts' *Social Forces* [link](https://doi.org/10.1093/sf/soaf211)
 
