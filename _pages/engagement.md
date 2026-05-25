@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Academic Services
-* Journal Referee: Ageing & Society, Applied Economics, Asian Social Work & Policy Review, International Journal of Social Welfare, International Journal of Sociology & Social Policy, Journal of Aging & Social Policy, Journal of Governmental Studies, Journal of the Economics of Ageing, Nature Scientific Data, Poverty & Public Policy, Social Policy & Administration, Social Science Research, Socius
+* Journal Referee: Ageing & Society, Applied Economics, Asian Social Work & Policy Review, Economic Modeling, Humanities & Social Science Communications, International Journal of Social Welfare, International Journal of Sociology & Social Policy, Journal of Aging & Social Policy, Journal of Asian Public Policy, Journal of Governmental Studies, Journal of Economic Inequality, Journal of the Economics of Ageing, Journal of Population Ageing, Nature Scientific Data, Poverty & Public Policy, Review of the Economics of the Household, Social Policy & Administration, Social Science Research, Socius
 
 * Core member, Social Policy Association Pensions Policy Group [link](https://social-policy.org.uk/news/spa-policy-groups/)
 
@@ -26,6 +26,8 @@ author_profile: true
 
 
 ## Engagement Activities
+* ‘How pension systems (re)shape the landscape of wealth inequality and redistribution’, *LIS Newsletter* No. 37, March 2026 [link](https://www.lisdatacenter.org/newsletter/nl-2026-37-im-1/)
+
 * SPA Blog Contribution, "Attending the Social Policy Association annual conference: Reports from early career researchers from the Pensions Policy Group" [link](https://social-policy.org.uk/spa-blog/blog-attending-the-social-policy-association-annual-conference-reports-from-early-career-researchers-from-the-pensions-policy-group/)
 
 * The 2nd KFAS-Salzburg Global Leadership Initiative: Connecting Technologies - Technology, Growth & Inequality, 2024-25 [link](https://www.salzburgglobal.org/multi-year-series/kfas/pageId/11076)
