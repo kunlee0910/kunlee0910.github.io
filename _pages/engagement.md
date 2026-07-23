@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Academic Services
-* Journal Referee: Ageing & Society, Applied Economics, Asian Social Work & Policy Review, Economic Modeling, Humanities & Social Science Communications, International Journal of Social Welfare, International Journal of Sociology & Social Policy, Journal of Aging & Social Policy, Journal of Asian Public Policy, Journal of Governmental Studies, Journal of Economic Inequality, Journal of the Economics of Ageing, Journal of Population Ageing, Nature Scientific Data, Poverty & Public Policy, Review of the Economics of the Household, Social Policy & Administration, Social Science Research, Socius
+* Journal Referee: Ageing & Society, Applied Economics, Applied Economics Letters, Asian Social Work & Policy Review, Economic Modeling, Humanities & Social Science Communications, International Journal of Social Welfare, International Journal of Sociology & Social Policy, Journal of Aging & Social Policy, Journal of Asian Public Policy, Journal of Governmental Studies, Journal of Economic Inequality, Journal of the Economics of Ageing, Journal of Population Ageing, Nature Scientific Data, Poverty & Public Policy, Review of the Economics of the Household, Social Policy & Administration, Social Science Research, Socius
 
 * Core member, Social Policy Association Pensions Policy Group [link](https://social-policy.org.uk/news/spa-policy-groups/)
 

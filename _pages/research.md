@@ -38,7 +38,7 @@ Lee, K. & Ebbinghaus, B. (2026). 'Converging or unequal retirement patterns? Lat
 Ebbinghaus, B. & Lee, K. (2023). ‘From early retirement to later exit from work: shifting towards active ageing’, in Daniel Clegg & Niccolo Durazzi (eds.), *Handbook of Labour Market Policy in Advanced Democracies*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/doi/10.4337/9781800880887.00030)
 
 ### Working Papers
-Threats of AI? Workers’ perceptions of technological change and precautionary saving behaviour (with Ludivine Martin & Thuc-Uyen Nguyen-Thi)
+Threats of AI? Workers’ perceptions of technological change and precautionary saving behaviour (with Ludivine Martin & Thuc-Uyen Nguyen-Thi), *Revise & Resubmit*
 
 ### Projects under development
 The intergenerational effects of social pensions on women's labour supply: Evidence from five countries (with [Noelia Bernal](https://nbernall.github.io/Website/), [Javier Olivera](https://sites.google.com/site/javierolive/) and [William Fernandez](https://william-fernandez.com/)) 
@@ -49,9 +49,9 @@ The intergenerational effects of social pensions on women's labour supply: Evide
 Kuitto, K. & Lee, K. (2025). ‘How to make extending working lives in ageing welfare states socially sustainable’, in M. Vaalavuo, K. Nelson & K. Kuitto (eds.), *Social Sustainability in Ageing Welfare States*, Cheltenham, UK: Edward Elgar. [link](https://www.elgaronline.com/edcollchap-oa/book/9781035318377/chapter7.xml)
 
 ### Working Papers
-A fragile social contract: The politics of an unpopular welfare reform in South Korea (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
+A fragile social contract: The politics of an unpopular welfare reform in South Korea (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/)), *Revise & Resubmit*
 
-Still Beveridge or Bismarck? Revising the typology of pension systems for the 21st century (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/) and [Daria Frost](https://www.sowi.uni-mannheim.de/en/ebbinghaus/team/academic-staff-members/frost-daria/))
+Beyond Beveridge and Bismarck: Revising the typology of pension systems for the 21st century, (with [Bernhard Ebbinghaus](https://ebbinghaus.blog/) and [Daria Frost](https://www.sowi.uni-mannheim.de/en/ebbinghaus/team/academic-staff-members/frost-daria/)), *Revise & Resubmit*
 
 ### Projects under development
 The Political Economy of Pension Reforms in South Korea: Evidence from a Conjoint Experiment (with [Dong-kyun Im](https://sociology.snu.ac.kr/en/snu__professor/im-dong-kyun/))
@@ -66,9 +66,9 @@ Kim, K. & Lee, K. (2025). 'Intra-couple allocation of paid and unpaid work, allo
 Lee, K. & Zaidi, A. (2020). ‘How Policy Configurations Matter: a critical look into pro-natal policy in South Korea based on a gender and family framework’, *International Journal of Sociology & Social Policy*, 40(7/8), 589-606. [link](https://doi.org/10.1108/IJSSP-12-2019-0260)
 
 ### Working Papers
-Beyond Average Effect: The role of family policy in shaping fertility and women's labour market participation across policy regimes (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400)
+Beyond Average Effect: The role of family policy in shaping fertility and women's labour market participation across policy regimes (with [Eunho Cha](https://cprc.columbia.edu/directory/eunho-cha) & [Stacie Tao](https://chinacenter.socialwork.columbia.edu/people/stacie-tao)) [replication files](https://figshare.com/articles/dataset/cha_tao_lee_2024_dta/27018400), *under review*
+
+Couples’ allocation of paid and unpaid work and subjective well-being in South Korea, 2004-2024 (with Keon Kim), *under review*
 
 ### Projects under development
-Couples’ allocation of paid and unpaid work and subjective well-being in South Korea, 2004-2024 (with Keon Kim)
-
 Wealth-to-income ratio, uncertainty, and fertility outcomes (with [Dohoon Lee](https://sociology.snu.ac.kr/en/snu__professor/dohoonlee/))
