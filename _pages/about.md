@@ -16,3 +16,5 @@ I am Assistant Professor of Social Welfare Policy at the [Department of Social W
 As a quantitative social scientist and social policy researcher, my research broadly focuses on how social inequalities are shaped - reduced or reproduced - by welfare state institutions and social policies from a comparative perspective, against the common challenge of demographic transition and changing labor markets. The key topics of my research include inequalities in pensions and labour markets, poverty, income and wealth inequality, and social policy attitudes.
 
 My research has been published in some of the leading journals in my field, such as the *Journal of European Social Policy*, *Social Forces*, *Social Policy & Administration*, and *Socio-Economic Review*.
+
+### 서울대학교 사회복지학과 이건 교수의 웹사이트입니다.
